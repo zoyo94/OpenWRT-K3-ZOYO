@@ -1,0 +1,133 @@
+Package: shadowsocksr-libev-ssr-check
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: /home/lede/feeds/helloworld/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-check
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1655821311
+Architecture: arm_cortex-a9
+Installed-Size: 2235
+Filename: shadowsocksr-libev-ssr-check_2.5.6-9_arm_cortex-a9.ipk
+Size: 3016
+SHA256sum: bb173c9f2fbb266c9ccb530c19beb8a92c5f14358547b6b01492b5c3928f0c15
+Description:  shadowsocksr-libev ssr-check
+
+Package: shadowsocksr-libev-ssr-local
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: /home/lede/feeds/helloworld/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-local
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1655821311
+Architecture: arm_cortex-a9
+Installed-Size: 58635
+Filename: shadowsocksr-libev-ssr-local_2.5.6-9_arm_cortex-a9.ipk
+Size: 59477
+SHA256sum: e5d52c8a05bdda266c8ec6df1b793a0f6b66623f1bd533c837226759909224ef
+Description:  shadowsocksr-libev ssr-local
+
+Package: shadowsocksr-libev-ssr-redir
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: /home/lede/feeds/helloworld/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-redir
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1655821311
+Architecture: arm_cortex-a9
+Installed-Size: 53186
+Filename: shadowsocksr-libev-ssr-redir_2.5.6-9_arm_cortex-a9.ipk
+Size: 53958
+SHA256sum: c6677b52155eefd298e000e3464400dd0e41506805069cd32eb7afae7f27fd06
+Description:  shadowsocksr-libev ssr-redir
+
+Package: shadowsocksr-libev-ssr-server
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: /home/lede/feeds/helloworld/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-server
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1655821311
+Architecture: arm_cortex-a9
+Installed-Size: 62576
+Filename: shadowsocksr-libev-ssr-server_2.5.6-9_arm_cortex-a9.ipk
+Size: 63367
+SHA256sum: f948714e8b2c9c07401e0be0e9e511d41763b16a06b1eb815e8a39b9ab426437
+Description:  shadowsocksr-libev ssr-server
+
+Package: simple-obfs-client
+Version: 0.0.5-1
+Depends: libc, libpthread, libev
+Provides: simple-obfs
+Source: /home/lede/feeds/helloworld/simple-obfs
+SourceName: simple-obfs-client
+License: GPL-3.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1655821311
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: arm_cortex-a9
+Installed-Size: 27373
+Filename: simple-obfs-client_0.0.5-1_arm_cortex-a9.ipk
+Size: 28227
+SHA256sum: f2f081edf899aeb94f59f46e43c9454f9854376bd2a7e032123a892ad9cba711
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: trojan
+Version: 1.16.0-2
+Depends: libc, libpthread, libstdcpp6, libopenssl1.1, boost, boost-system, boost-program_options, boost-date_time
+Source: /home/lede/feeds/helloworld/trojan
+SourceName: trojan
+License: GPL-3.0
+Section: net
+SourceDateEpoch: 1655821311
+Maintainer: GreaterFire
+Architecture: arm_cortex-a9
+Installed-Size: 273830
+Filename: trojan_1.16.0-2_arm_cortex-a9.ipk
+Size: 274383
+SHA256sum: 7ccf67fb31e214dc6909d611e607eb6f7a8aed50034fec50152489bf8f78296b
+Description:  An unidentifiable mechanism that helps you bypass GFW
+
+Package: xray-core
+Version: 1.5.8-1
+Depends: libc, ca-bundle
+Source: /home/lede/feeds/helloworld/xray-core
+SourceName: xray-core
+License: MPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1655821311
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: arm_cortex-a9
+Installed-Size: 7393262
+Filename: xray-core_1.5.8-1_arm_cortex-a9.ipk
+Size: 7383358
+SHA256sum: ef77f06f6f2f5ae6aeb248d4d2667da69eeac9ba42d91b9988a5132be6301a9c
+Description:  Xray, Penetrates Everything. It helps you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+
+Package: xray-plugin
+Version: 1.5.8-1
+Depends: libc, ca-bundle
+Source: /home/lede/feeds/helloworld/xray-plugin
+SourceName: xray-plugin
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1655821311
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: arm_cortex-a9
+Installed-Size: 5509208
+Filename: xray-plugin_1.5.8-1_arm_cortex-a9.ipk
+Size: 5501412
+SHA256sum: 834f2c0b64c14eb01fec41238125e2df7a8e2b3677cc3682e145a4032467bd6b
+Description:  SIP003 plugin for Shadowsocks, based on Xray
+
